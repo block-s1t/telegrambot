@@ -7,4 +7,4 @@
   5.群管理  
   6.引流  
   7.等等  
-如需定制机器人或其他开发业务,请联系[@block_s1t](https://t.me/block_s1t)
+如需定制机器人或其他开发业务,请联系[Telegram](https://t.me/block_s1t)
